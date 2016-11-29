@@ -253,6 +253,17 @@ section.download .badges .badge-link img {
     font-size: 70px;
   }
 }
+section.product {
+    position: relative;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  background-position: center;
+  background-image: url('../img/bg-features.jpg');
+  padding: 250px 0;
+}
+
 section.features .section-heading {
   margin-bottom: 100px;
 }
