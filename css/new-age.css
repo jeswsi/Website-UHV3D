@@ -404,12 +404,12 @@ footer ul li a.active {
   text-decoration: none;
 }
 .bg-primary {
-  background: #fdcc52;
-  background: -webkit-linear-gradient(#fdcc52, #fdc539);
-  background: linear-gradient(#fdcc52, #fdc539);
+  background: #0915D3;
+  background: -webkit-linear-gradient(#0915D3, #0915D3);
+  background: linear-gradient(#0915D3, #0915D3);
 }
 .text-primary {
-  color: #fdcc52;
+  color: #0915D3;
 }
 .no-gutter > [class*='col-'] {
   padding-right: 0;
@@ -425,8 +425,8 @@ footer ul li a.active {
 .btn-outline:active,
 .btn-outline.active {
   color: white;
-  background-color: #fdcc52;
-  border-color: #fdcc52;
+  background-color: #0915D3;
+  border-color: #0915D3;
 }
 .btn {
   font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
