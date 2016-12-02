@@ -260,8 +260,12 @@ section.product {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('../img/bg-features.jpg');
+  background-image: url('../img/bg-product.jpg');
   padding: 250px 0;
+}
+
+section.thin {
+  padding: 180px 0;
 }
 
 section.features .section-heading {
@@ -428,6 +432,21 @@ footer ul li a.active {
   background-color: #0915D3;
   border-color: #0915D3;
 }
+
+.btn2-outline {
+  color: black;
+  border-color: black;
+  border: 1px solid;
+}
+.btn2-outline:hover,
+.btn2-outline:focus,
+.btn2-outline:active,
+.btn2-outline.active {
+  color: black;
+  background-color: white;
+  border-color: white;
+}
+
 .btn {
   font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
   text-transform: uppercase;
