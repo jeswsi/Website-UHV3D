@@ -108,7 +108,7 @@
                                 <div class="feature-item">
                                     <!-- <i class="icon-screen-smartphone text-primary"></i> -->
                                     <img src="img/rfa_probe_small.jpg">
-                                    <p class="text-muted">Probe Head Mounted on NSTX</p>
+                                    <p class="text-muted">Probe Head <a href="https://www.researchgate.net/publication/303895029_3D_Printing_Scripted_Design_of_Fusion_Diagnostics">Mounted on Alcator C-Mod</a></p>
                                 </div>
                             </div>
                         </div>
