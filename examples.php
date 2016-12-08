@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>UHV3D - Design for Ultra High Vacuum Environments</title>
+    <title>UHV3D - 3D Printing Design for Ultra High Vacuum Environments</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
