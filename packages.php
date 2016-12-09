@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>UHV3D - 3D Printing Design for Ultra High Vacuum Environments</title>
+    <title>Packages | UHV3D - 3D Printing Design for Ultra High Vacuum Environments</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -45,17 +45,17 @@
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top">UHV 3D</a>
+                <a class="navbar-brand page-scroll" href="http://uhv3d.com">UHV 3D</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a class="page-scroll" href="#features">About</a>
+                        <a class="page-scroll" href="http://uhv3d.com#features">About</a>
                     </li>
                     <li>
-                        <a href="examples">Examples</a>
+                        <a class="page-scroll" href="#features">Examples</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#contact">Contact</a>
@@ -67,101 +67,76 @@
         <!-- /.container-fluid -->
     </nav>
 
-    <header>
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-7">
-                    <div class="header-content">
-                        <div class="header-content-inner">
-                            <h1>Your Device, Optimized and 3D Printed for use in Ultra High Vacuum environments.</h1>
-                            <a href="#contact" class="btn btn-outline btn-xl page-scroll">Contact Our Engineers!</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-5">
-                    <!-- <div class="device-container">
-                        <div class="device-mockup iphone6_plus portrait white">
-                            <div class="device">
-                                <div class="screen"> -->
-                                    <!-- Demo image for screen mockup, you can put an image here, some HTML, an animation, video, or anything else! -->
-                                    <!-- <img src="img/demo-screen-1.jpg" class="img-responsive" alt="">
-                                </div>
-                                <div class="button"> -->
-                                    <!-- You can hook the "home button" to some JavaScript events or just remove it -->
-                                <!-- </div>
-                            </div>
-                        </div>
-                    </div> -->
-                </div>
-            </div>
-        </div>
-    </header>
 
-<!--     <section id="download" class="download bg-primary text-center">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-8 col-md-offset-2">
-                    <h2 class="section-heading">Discover what all the buzz is about!</h2>
-                    <p>Our app is available on any mobile device! Download now to get started!</p>
-                    <div class="badges">
-                        <a class="badge-link" href="#"><img src="img/google-play-badge.svg" alt=""></a>
-                        <a class="badge-link" href="#"><img src="img/app-store-badge.svg" alt=""></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section> -->
-    <section id="product" class="product"></section>
+
+
+    <section id="product" class="product thin"></section>
 
     <section id="features" class="features">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <div class="section-heading">
-                        <h2>UHV3D's Engineers are the leading experts in Design for AM and UHV</h2>
-                        <p class="text-muted">We have years of experience designing and building conventional Plasma Diagnostics for UHV environments. Our team is leading the research on Additively Manufactured materials in UHV environments.</p>
+                        <h2>Packages from UHV3D</h2>
+                        <p class="text-muted">We can take your design from the concept stage all the way to a finished product. Our services include: Engineering Design, Optimization for Additive Manufacture, Material Suitablity Analysis, Engineering Analysis, Manufacture, and more.</p>
+                        <br>
+                        <a href="#contact" class="btn btn2-outline btn-xl page-scroll">Contact Our Engineers!</a>
                         <hr>
                     </div>
                 </div>
             </div>
-                <!--<div class="col-md-4">
-                    <div class="device-container">
-                        <div class="device-mockup iphone6_plus portrait white">
-                            <div class="device">
-                                <div class="screen"> -->
-                                    <!-- Demo image for screen mockup, you can put an image here, some HTML, an animation, video, or anything else! -->
-                                    <!-- <img src="img/demo-screen-1.jpg" class="img-responsive" alt=""> </div>
-                                <div class="button"> -->
-                                    <!-- You can hook the "home button" to some JavaScript events or just remove it -->
-                                <!--</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>-->
+
                 <div class="col-md-12">
                     <div class="container-fluid">
                         <div class="row">
+                            <h2 class="text-center">Packages</h2>
+                            <p class="text-center text-muted"></p>
                             <div class="col-md-4">
                                 <div class="feature-item">
-                                    <!-- <i class="icon-screen-smartphone text-primary"></i> -->
-                                    <h3>Use AM to Save Money</h3>
-                                    <p class="text-muted">Additively Manufacured devices use less material and are more cost efficient than their conventional counterparts.</p>
+                                    <img src="img/RFA_CAD_small.PNG">
+                                    <p>CAD Engineering Design Optimizaion</p>
+                                    <p class="text-muted">Send us your CAD file, drawings, or idea and we'll optimize your design for Additive Manufacture. We can design parts that aren't possible with conventional manufacture like cooling channels or unusual geometries.</p>
                                 </div>
                             </div>
                             <div class="col-md-4">
                                 <div class="feature-item">
-<!--                                     <i class="icon-camera text-primary"></i>
- -->                                    <h3>Add Complexity</h3>
-                                    <p class="text-muted">Unusual Geometries, Cooling Channels and more are not a problem for Additive Manufacturing.</p>
+                                    <img src="img/RFA_COMSOL_small.PNG">
+                                    <p>FEM Analysis (Mechanical and Thermal)</p>
+                                    <p class="text-muted">UHV3D uses COMSOL Multiphysics to perform mechanical, thermal, and other engineering analysis. We recommend purchasing a FEM package alongside most CAD Packages when your design is exposed to extreme environments.</p>
                                 </div>
                             </div>
                             <div class="col-md-4">
                                 <div class="feature-item">
-<!--                                     <i class="icon-present text-primary"></i>
- -->                                    <h3>Save Design Time</h3>
-                                    <p class="text-muted">We know how to optimize designs for Additive Manufacturing. Let UHV3D do the heavy lifting.</p>
+                                    <img src="img/Zemax_analysis_small.PNG">
+                                    <p>Stray Light Analysis</p>
+                                    <p class="text-muted">UHV3D uses Zemax Optic Studio to perform analysis. Our team has performed Stray Light Analysis for ITER and other plasma physics applications.</p>
+                                </div>
+                        </div>
+                        <div class="row">
+
+                            </div>
+                            <div class="col-md-4">
+                                <div class="feature-item">
+                                    <a href="img/isolator.png"><img src="img/isolator_small.png"></a>
+                                    <p>Topology Optimization</p>
+                                    <p class="text-muted">Save weight or print costs by reducing your part's volume. Topology Optimization algorithmically reduces part volume while maximizing stiffness or other parameters.</p>
                                 </div>
                             </div>
+                            <div class="col-md-4">
+                                <div class="feature-item">
+                                    <img src="img/beam_dump_printed.jpg">
+                                    <p>Prototyping</p>
+                                    <p class="text-muted">If you want to hold a physical prototype or test design variations quickly, let UVH3D handle the process of finding the right printer for your application.</p>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="feature-item">
+                                    <img src="img/">
+                                    <p class="text-muted">More</p>
+                                    <p>Let us know what you need assistance with. We'll let you know if we can solve your problem or we'll point you to someone who can.</p>
+                                </div>
+                            </div>
+
 
                         </div>
                     </div>
@@ -181,7 +156,7 @@
 
     <section id="contact" class="contact bg-primary">
         <div class="container">
-            <h2>Email UHV3D</h2>
+            <h2>Email UHV3D For Pricing Information</h2>
             <a href="mailto:info@uhv3d.com" class="btn btn-outline btn-xl">info@uhv3d.com</a>
             <!-- <h2>We <i class="fa fa-heart"></i> new friends!</h2>
             <ul class="list-inline list-social">

@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>UHV3D - 3D Printing Design for Ultra High Vacuum Environments</title>
+    <title>Examples | UHV3D - 3D Printing Design for Ultra High Vacuum Environments</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -89,7 +89,7 @@
                 <div class="col-md-12">
                     <div class="container-fluid">
                         <div class="row">
-                            <h2>3D Printed Tungsten Retarding Field Analyzer</h2>
+                            <h2 class="text-center">3D Printed Tungsten Retarding Field Analyzer</h2>
                             <div class="col-md-4">
                                 <div class="feature-item">
                                     <!-- <i class="icon-screen-smartphone text-primary"></i> -->
@@ -113,7 +113,7 @@
                             </div>
                         </div>
                         <div class="row">
-                            <h2>Beam Dump</h2>
+                            <h2 class="text-center">Beam Dump</h2>
                             <div class="col-md-4">
                                 <div class="feature-item">
                                     <!-- <i class="icon-screen-smartphone text-primary"></i> -->
