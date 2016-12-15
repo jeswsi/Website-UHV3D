@@ -58,6 +58,9 @@
                         <a href="examples">Examples</a>
                     </li>
                     <li>
+                        <a href="team">Team</a>
+                    </li>
+                    <li>
                         <a class="page-scroll" href="#contact">Contact</a>
                     </li>
                 </ul>
