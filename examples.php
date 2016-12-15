@@ -58,6 +58,9 @@
                         <a class="page-scroll" href="#features">Examples</a>
                     </li>
                     <li>
+                        <a class="page-scroll" href="http://uhv3d.com/team">Team</a>
+                    </li>
+                    <li>
                         <a class="page-scroll" href="#contact">Contact</a>
                     </li>
                 </ul>

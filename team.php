@@ -55,7 +55,7 @@
                         <a class="page-scroll" href="http://uhv3d.com#features">About</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#features">Examples</a>
+                        <a class="page-scroll" href="http://uhv3d.com/examples">Examples</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#employees">Team</a>
@@ -71,11 +71,9 @@
     </nav>
 
 
-
-
     <section id="product" class="product thin"></section>
 
-    <section id="features" class="features">
+    <section id="employees" class="employees">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -95,20 +93,20 @@
                     <div class="container-fluid">
                         <div class="row">
                             <h2 class="text-center">UHV3D's Engineers</h2>
-                            <div class="col-md-4">
+                            <div class="col-md-3">
                                 <div class="feature-item">
                                     <!-- <i class="icon-screen-smartphone text-primary"></i> -->
-                                    <img src="img/Headshots/simon.jpg" alt="Image of Simon Woodruff" style="width:128px;" align="left" Hspace="10">
+                                    <img src="img/simon.jpg" alt="Image of Simon Woodruff" style="width:128px;" align="left" Hspace="10">
                                     <h3><strong><a href="http://www.researchgate.net/profile/Simon_Woodruff/">Dr. Simon Woodruff</a>
                                     </strong><span class="text-muted">Physicist</span></h3>
                                     <p>After a decade of research into innovative fusion concepts at the University of Manchester (PhD), Lawrence Livermore National Lab (Postdoc), UC Berkeley Department of Nuclear Engineering (Visiting Scholar), and the University of Washington (Research Scientist), Dr. Woodruff founded WSI to help accelerate the development of economic fusion energy.   Woodruff has performed work under contract to DOE, universities, national labs and to the private sector, building research devices, performing modeling and simulations primarily directed at simply-connected (hence more compact and simpler-to-engineer) fusion systems.  Dr. Woodruff is a member of the American Physical Society and the Institute of Physics.</p>
                                     <p>For publications, please visit <a href="http://www.researchgate.net/profile/Simon_Woodruff/">ResearchGate</a></p>
                                 </div>
                             </div>
-                            <div class="col-md-4">
+                            <div class="col-md-3">
                                 <div class="feature-item">
                                     <!-- <i class="icon-screen-smartphone text-primary"></i> -->
-                                    <img src="img/Headshots/paul2.jpg" alt="Image of Paul Sieck" style="width:128px;" align="left" Hspace="10">
+                                    <img src="img/paul2.jpg" alt="Image of Paul Sieck" style="width:128px;" align="left" Hspace="10">
 
                                     <h3><strong><a href="https://www.researchgate.net/profile/Paul_Sieck">Dr. Paul Sieck</a></strong><span class="text-muted"> Engineer, Physicist</span></h3>
 
@@ -127,10 +125,10 @@
                                     <br></br>
                                 </div>
                             </div>
-                            <div class="col-md-4">
+                            <div class="col-md-3">
                                 <div class="feature-item">
                                     <!-- <i class="icon-screen-smartphone text-primary"></i> -->
-                                    <img src="img/Headshots/morgan.jpg" alt="Image of Morgan Quinley" style="width:128px;" align="left" Hspace="10">
+                                    <img src="img/morgan.jpg" alt="Image of Morgan Quinley" style="width:128px;" align="left" Hspace="10">
 
                                     <h3><strong><a href="https://www.researchgate.net/profile/Morgan_Quinley/">Morgan Quinley</a></strong><span class="text-muted"> Diagnostics Engineer</span></h3>
 
@@ -140,6 +138,18 @@
                                     <br></br>
                                 </div>
                             </div>
+                            <div class="col-md-3">
+                                <div class="feature-item">
+                                    <!-- <i class="icon-screen-smartphone text-primary"></i> -->
+                                    <h3><strong>Trevor Smith</strong><span class="text-muted"> Space Grant Summer Intern</span></h3>
+                                    <p>Studying mechanical engineering at the University of California, San Diego, Trevor's interests include design for practicality, manufacturing optimization and support for sustainable energy sources.</p>
+                                    <br></br>
+                                </div>
+                            </div>
+
+
+
+
                         </div>
                     </div>
                 </div>
