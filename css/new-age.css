@@ -218,6 +218,11 @@ header .device-container .screen img {
     font-size: 50px;
   }
 }
+
+section.employees a {
+  color: #0915D3;
+}
+
 section {
   padding: 100px 0;
 }
