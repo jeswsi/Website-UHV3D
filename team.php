@@ -70,6 +70,7 @@
         <!-- /.container-fluid -->
     </nav>
 
+    
 
     <section id="product" class="product thin"></section>
 
@@ -140,8 +141,16 @@
                             <div class="row">
                             <div class="col-md-4">
                                 <div class="feature-item">
+                                    <img src="img/katherine.jpg" alt="Image of Katherine Chun" style="width:128px;" align="left" Hspace="10">
+                                    <h3><strong><a href="https://www.linkedin.com/in/chunkatherine">Katherine Chun</a></strong> <span class="text-muted"> Intern</span></h3>
+                                    <p>Katherine Chun is pursuing an undergraduate degree in mechanical engineering at the University of Washington. Her interests include renewable energy and design for manufacturability.</p>
+                                    <br></br>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="feature-item">
                                     <!-- <i class="icon-screen-smartphone text-primary"></i> -->
-                                    <h3><strong>Trevor Smith</strong><span class="text-muted"> Space Grant Summer Intern</span></h3>
+                                    <h3><strong>Trevor Smith</strong><span class="text-muted"> Intern</span></h3>
                                     <p>Studying mechanical engineering at the University of California, San Diego, Trevor's interests include design for practicality, manufacturing optimization and support for sustainable energy sources.</p>
                                     <br></br>
                                 </div>
@@ -156,17 +165,6 @@
                                     <p>For publications, please visit <a href="http://www.researchgate.net/profile/Simon_Woodruff/">ResearchGate</a></p>
                                 </div>
                             </div>
-                            <div class="col-md-4">
-                                <div class="feature-item">
-                                    <img src="">
-                                    <p class="text-muted"></p>
-                                </div>
-                            </div>
-
-                        </div>
-
-
-
                         </div>
                     </div>
                 </div>
