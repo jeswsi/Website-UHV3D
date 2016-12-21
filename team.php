@@ -96,7 +96,7 @@
                     <div class="section-heading">
 
                         <h2>UHV3D's Team</h2>
-                        <p class="text-muted">We can take your design from the concept stage all the way to a finished product. Our services include: Engineering Design, Optimization for Additive Manufacture, Material Suitablity Analysis, Engineering Analysis, Manufacture, and more.</p>
+                        <p class="text-muted">We have years of experience designing and building conventional Plasma Diagnostics for UHV environments. Our team is leading the research on Additively Manufactured materials in UHV environments.</p>
 
                         <br>
                         <a href="#contact" class="btn btn2-outline btn-xl page-scroll">Contact Our Engineers!</a>
@@ -113,8 +113,8 @@
                                 <div class="feature-item">
                                     <!-- <i class="icon-screen-smartphone text-primary"></i> -->
                                     <img src="img/james.jpg" alt="Image of James Stuber" style="width:128px;" align="left" Hspace="10">
-                                    <h3><strong><a href="https://www.researchgate.net/profile/James_Stuber/">James Stuber</a></strong><span class="text-muted"> Design Engineer</span></h3>
-                                    <p>James Stuber graduated with a bachelor&#8217;s degree in Aeronautics and Astronautics from the University of Washington in 2011. Interests in astronautics include orbital mechanics, propulsion, and satellite design. Other interests are computer science and plasma physics. For his senior class capstone James designed hardware and controls for rendezvous with and capture of non-cooperative orbital debris. At Woodruff Scientific James has assisted in the design and construction of lab devices, developed experiment control code, and managed plasma simulations. James is a member of the American Institute of Aeronautics and Astronautics.</p>
+                                    <h3><strong><a href="https://www.researchgate.net/profile/James_Stuber/">James Stuber</a></strong> <span class="text-muted"> AM Design Engineer</span></h3>
+                                    <p>James Stuber graduated with a bachelor&#8217;s degree in Aeronautics and Astronautics from the University of Washington in 2011. James has 5 years of industry experience in Engineering Design, Simulation, and Manufacture. He has designed and printed numerous diagnostics related devices for the DOE.</p>
                                     <p>For publications, please visit <a href="http://www.researchgate.net/profile/James_Stuber/">ResearchGate</a></p>
                                     <br></br>
                                 </div>
@@ -124,9 +124,9 @@
                                     <!-- <i class="icon-screen-smartphone text-primary"></i> -->
                                     <img src="img/morgan.jpg" alt="Image of Morgan Quinley" style="width:128px;" align="left" Hspace="10">
 
-                                    <h3><strong><a href="https://www.researchgate.net/profile/Morgan_Quinley/">Morgan Quinley</a></strong><span class="text-muted"> Diagnostics Engineer</span></h3>
+                                    <h3><strong><a href="https://www.researchgate.net/profile/Morgan_Quinley/">Morgan Quinley</a></strong><span class="text-muted"> AM Design Engineer</span></h3>
 
-                                    <p>Morgan earned a bachelor's degree in aerospace engineering from Saint Louis University, and during that time held internships at NASA and Andrews Space. He then worked for a few years as an R&D engineer in the field of nuclear medicine before starting graduate school in plasma science at the University of Washington. While at UW, Morgan helped to build an astrophysical jet experiment, ultimately writing his master's thesis on the design and implementation of a retarding field analyzer.</p>
+                                    <p>Morgan earned his masters in plasma science at the University of Washington. While at UW, Morgan helped to build an astrophysical jet experiment, designing and implementing a retarding field analyzer. Morgan designed a Tungsten RFA probe, which was tested in a live plasma environment at MIT. Morgan is currently investigating novel materials for use in Additive Manufacture.</p>
                                     <p>For publications, please visit <a href="https://www.researchgate.net/profile/Morgan_Quinley/">ResearchGate</a></p>
                                     <br></br>
                                 </div>
@@ -136,24 +136,21 @@
                                     <!-- <i class="icon-screen-smartphone text-primary"></i> -->
                                     <img src="img/paul2.jpg" alt="Image of Paul Sieck" style="width:128px;" align="left" Hspace="10">
 
-                                    <h3><strong><a href="https://www.researchgate.net/profile/Paul_Sieck">Dr. Paul Sieck</a></strong><span class="text-muted"> Engineer, Physicist</span></h3>
+                                    <h3><strong><a href="https://www.researchgate.net/profile/Paul_Sieck">Dr. Paul Sieck</a></strong><span class="text-muted"> Engineering Manager, Physicist</span></h3>
 
                                     <p>Dr. Sieck has 16 years experience in laboratory plasma physics and
                                     nuclear fusion research.  He has worked in a diverse range of
                                     experimental programs, from his doctoral work on the HIT-SI spheromak
                                     experiment at the University of Washington, to the DIII-D tokamak at
                                     General Atomics, and most recently the Polywell program at Energy Matter
-                                    Conversion Corporation.  He has broad experience in magnetic
-                                    measurements, signal conditioning, data acquisition, laboratory
-                                    automation, and feedback control of plasmas.  His research interests
-                                    include high-beta MHD, accelerated plasma flows, driven magnetic
-                                    reconnection, and plasma dynamos.</p>
+                                    Conversion Corporation.</p>
                                     <p>For publications, please visit <a href="https://www.researchgate.net/profile/Paul_Sieck">ResearchGate</a></p>
                                     <br></br>
                                 </div>
                             </div>
+                        </div>
                         
-                            <div class="row">
+                        <div class="row">
                             <div class="col-md-4">
                                 <div class="feature-item">
                                     <img src="img/katherine.jpg" alt="Image of Katherine Chun" style="width:128px;" align="left" Hspace="10">
@@ -176,7 +173,7 @@
                                     <img src="img/simon.jpg" alt="Image of Simon Woodruff" style="width:128px;" align="left" Hspace="10">
                                     <h3><strong><a href="http://www.researchgate.net/profile/Simon_Woodruff/">Dr. Simon Woodruff</a>
                                     </strong><span class="text-muted">Physicist</span></h3>
-                                    <p>After a decade of research into innovative fusion concepts at the University of Manchester (PhD), Lawrence Livermore National Lab (Postdoc), UC Berkeley Department of Nuclear Engineering (Visiting Scholar), and the University of Washington (Research Scientist), Dr. Woodruff founded WSI to help accelerate the development of economic fusion energy.   Woodruff has performed work under contract to DOE, universities, national labs and to the private sector, building research devices, performing modeling and simulations primarily directed at simply-connected (hence more compact and simpler-to-engineer) fusion systems.  Dr. Woodruff is a member of the American Physical Society and the Institute of Physics.</p>
+                                    <p>Dr. Woodruff has a decade of fusion research experience at the University of Manchester (PhD), Lawrence Livermore National Lab, UC Berkeley, and the University of Washington. Since 2005, he has built research devices and performed modeling &amp; simulations work for the DOE, universities, and the private sector. </p>
                                     <p>For publications, please visit <a href="http://www.researchgate.net/profile/Simon_Woodruff/">ResearchGate</a></p>
                                 </div>
                             </div>
