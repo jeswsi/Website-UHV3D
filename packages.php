@@ -55,7 +55,13 @@
                         <a class="page-scroll" href="http://uhv3d.com#features">About</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#features">Examples</a>
+                        <a href="examples">Examples</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#features">Packages</a>
+                    </li>
+                    <li>
+                        <a href="team">Team</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#contact">Contact</a>
@@ -131,10 +137,23 @@
                             </div>
                             <div class="col-md-4">
                                 <div class="feature-item">
-                                    <img src="img/">
-                                    <p class="text-muted">More</p>
-                                    <p>Let us know what you need assistance with. We'll let you know if we can solve your problem or we'll point you to someone who can.</p>
+                                    <img src="img/Tungsten.jpg" alt="Image of Tungsten from https://commons.wikimedia.org/wiki/File:Tungsten.jpg">
+                                    <p>Materials Selection</p>
+                                    <p class="text-muted">Materials selection for 3D Printing is growing everyday, ceramics, Tungsten, and even multi-material prints are becoming available. UHV3D continuously studies the properties of available materials for their use in real world products. Work with our experts to choose the right materials for your project.</p>
                                 </div>
+                            </div>
+                        </div>
+                        <div class="row"></div>
+                            <div class="col-md-4">
+                            </div>
+                            <div class="col-md-4">
+                                <div class="feature-item">
+                                    
+                                    <h2>More</h2>
+                                    <p class="text-muted">Let us know what you need assistance with. We'll let you know if we can solve your problem or  point you to someone who can.</p>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
                             </div>
 
 

@@ -67,10 +67,13 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a class="page-scroll" href="http://uhv3d.com#features">About</a>
+                        <a class="page-scroll" href="http://uhv3d.com/#features">About</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="http://uhv3d.com/examples">Examples</a>
+                        <a href="examples">Examples</a>
+                    </li>
+                    <li>
+                        <a href="packages">Packages</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#employees">Team</a>

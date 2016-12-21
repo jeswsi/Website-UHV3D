@@ -72,6 +72,9 @@
                         <a href="examples">Examples</a>
                     </li>
                     <li>
+                        <a href="packages">Packages</a>
+                    </li>
+                    <li>
                         <a href="team">Team</a>
                     </li>
                     <li>
@@ -91,7 +94,7 @@
                     <div class="header-content">
                         <div class="header-content-inner">
                             <h1>Your device, designed and optimized for 3D printing.</h1>
-                            <h3>Use in Ultra High Vacuum, or any other environment</h3>
+                            <h3>Use in Ultra High Vacuum, or any other environment.</h3>
                             <br>
                             <a href="#contact" class="btn btn-outline btn-xl page-scroll">Contact Our Engineers!</a>
                         </div>
