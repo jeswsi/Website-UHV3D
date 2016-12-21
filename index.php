@@ -90,7 +90,9 @@
                 <div class="col-sm-7">
                     <div class="header-content">
                         <div class="header-content-inner">
-                            <h1>Your Device, Designed and Optimized for 3D Printing.</h1>
+                            <h1>Your device, designed and optimized for 3D printing.</h1>
+                            <h3>Use in Ultra High Vacuum, or any other environment</h3>
+                            <br>
                             <a href="#contact" class="btn btn-outline btn-xl page-scroll">Contact Our Engineers!</a>
                         </div>
                     </div>
