@@ -90,7 +90,7 @@
                 <div class="col-sm-7">
                     <div class="header-content">
                         <div class="header-content-inner">
-                            <h1>Your Device, Optimized and 3D Printed for use in Ultra High Vacuum environments.</h1>
+                            <h1>Your Device, Designed and Optimized for 3D Printing.</h1>
                             <a href="#contact" class="btn btn-outline btn-xl page-scroll">Contact Our Engineers!</a>
                         </div>
                     </div>
@@ -136,7 +136,7 @@
                 <div class="col-lg-12 text-center">
                     <div class="section-heading">
                         <h2>UHV3D's Engineers are the leading experts in Design for AM and UHV</h2>
-                        <p class="text-muted">We have years of experience designing and building conventional Plasma Diagnostics for UHV environments. Our team is leading the research on Additively Manufactured materials in UHV environments.</p>
+                        <p class="text-muted">We have years of experience designing and building conventional Plasma Diagnostics for Ultra High Vacuum environments. Our team is leading the research on Additively Manufactured materials used in UHV.</p>
                         <hr>
                     </div>
                 </div>

@@ -142,7 +142,7 @@
                                     nuclear fusion research.  He has worked in a diverse range of
                                     experimental programs, from his doctoral work on the HIT-SI spheromak
                                     experiment at the University of Washington, to the DIII-D tokamak at
-                                    General Atomics, and most recently the Polywell program at Energy Matter
+                                    General Atomics, and the Polywell program at Energy Matter
                                     Conversion Corporation.</p>
                                     <p>For publications, please visit <a href="https://www.researchgate.net/profile/Paul_Sieck">ResearchGate</a></p>
                                     <br></br>
