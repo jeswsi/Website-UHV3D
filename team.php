@@ -164,7 +164,8 @@
                             </div>
                             <div class="col-md-4">
                                 <div class="feature-item">
-                                    <!-- <i class="icon-screen-smartphone text-primary"></i> -->
+                                    <img src="img/trevor.jpg" alt="Image of Trevor Smith" style="width:128px;" align="left" Hspace="10">
+
                                     <h3><strong>Trevor Smith</strong><span class="text-muted"> Intern</span></h3>
                                     <p>Studying mechanical engineering at the University of California, San Diego, Trevor's interests include design for practicality, manufacturing optimization and support for sustainable energy sources.</p>
                                     <br></br>
